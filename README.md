@@ -37,8 +37,9 @@
 
 
 
-## Output
-![image](https://github.com/user-attachments/assets/c0f1174f-eae5-4754-b94b-8d7ebffc62bc)
+## Output:
+![image](https://github.com/user-attachments/assets/94edbdac-7a72-4d73-a8a7-dde0da9f1968)
+
 ![image](https://github.com/user-attachments/assets/fd23c6d6-cfde-4a11-99d6-47b435868c79)
 
 
